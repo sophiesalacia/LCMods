@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Krita files
 *.kra
+
+# Zips
+*.zip
